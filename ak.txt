@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 thired
+=======
+first
+second
+>>>>>>> d8b7087ad558c4537a9307d0c43a9855593b7fb8
